@@ -13,7 +13,7 @@ def q2():
   #Write Assignment code here
   
 def q3():
-  print(" Help me!")
+  print("Help me!")
   #Write Assignment code here
   
 def q4():
