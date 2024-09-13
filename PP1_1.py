@@ -1,11 +1,12 @@
 
 def q1():
-  
+
   "Hello World"
   #Write Assignment code here
   #Remember your code must be indented once
 
 def q2():
+
   1
   2
   3
@@ -14,10 +15,12 @@ def q2():
   #Write Assignment code here
   
 def q3():
+
   " Help me!"
   #Write Assignment code here
   
 def q4():
+  
   "3 x 3 = 9"
   #Write Assignment code here
 
