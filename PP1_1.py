@@ -5,11 +5,11 @@ def q1():
   #Remember your code must be indented once
 
 def q2():
-  print("1\n2\n3\n4\n5\n")
+  print("1\n2\n3\n4\n5")
   #Write Assignment code here
   
 def q3():
-  print(" Help me!")
+  print(" Help Me!")
   #Write Assignment code here
   
 def q4():
